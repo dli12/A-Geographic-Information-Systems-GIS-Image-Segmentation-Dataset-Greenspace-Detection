@@ -6,11 +6,9 @@ This is the repository of our paper:
 
 ## Image Segamentation GIS Dataset:
 
-```html
-<p float="left">
-  <img src="./figure/figure.png" width="100" />
-</p>
-```
+![](/figure/figure.png) 
+
+
 
 
 
