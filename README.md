@@ -2,7 +2,7 @@
 
 This is the repository of our paper:
 
-*Xin Hong, Scott Sheridan, and Dong Li, [https://link.springer.com/article/10.1007/s43762-022-00039-w#citeas](Mapping built environments from UAV imagery: a tutorial on mixed methods of deep learning and GIS), Computational Urban Science, vol. 2, no. 1, p. 12, Jun. 2022, doi: 10.1007/s43762-022-00039-w.*
+*Xin Hong, Scott Sheridan, and Dong Li, [Mapping built environments from UAV imagery: a tutorial on mixed methods of deep learning and GIS](https://link.springer.com/article/10.1007/s43762-022-00039-w#citeas), Computational Urban Science, vol. 2, no. 1, p. 12, Jun. 2022, doi: 10.1007/s43762-022-00039-w.*
 
 ## Image Segamentation GIS Dataset:
 
